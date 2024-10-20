@@ -15,6 +15,7 @@
 // - cookie-parser ==> npm i cookie-parser
 // - JWT ==> npm i jsonwebtoken
 // - ejs ==> npm i ejs
+// - run the app ==> npx nodemon app.js
 
 //---------------------------------------------------------------------------------------------------------------------
 
